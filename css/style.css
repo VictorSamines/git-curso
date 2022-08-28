@@ -3,6 +3,9 @@ html {
 }
 
 .title1 {
-  font-size: 20px;
+  font-size: 40px;
   color: tomato;
+  background-color: aqua;
+  border: 2px solid black;
+  text-align: center;
 }
